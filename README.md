@@ -19,7 +19,7 @@ The goal is not just to solve problems, but to understand *why* solutions work.
 ```text
 data-structures-and-algorithms/
 │
-├── data-structures/
+├── algorithms-and-data-structures/
 │   ├── dynamic-arrays/
 │   ├── linked-lists/
 │   ├── stacks/
